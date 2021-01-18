@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/itsSourCream/minecarft-server-controller?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/itsSourCream/minecarft-server-controller?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/itsSourCream/minecarft-server-controller?style=for-the-badge) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/itsSourCream/minecarft-server-controller?style=for-the-badge) https://img.shields.io/codacy/grade/3cc395d245c2450fa8ac8e34497a127e?style=for-the-badge
 
 # Minecraft Server Controller
 Simple RCON command sender to Minecraft server.
