@@ -3,8 +3,7 @@
 # Minecraft Server Controller
 Simple RCON command sender to Minecraft server.
 
-
-## Usage: 
+## Usage
 Step 1. Enter the server's IP address. (Template: mc.hypixel.net)
 
 Step 2. Enter the server's RCON port, which can be found in the server.properties file. 
