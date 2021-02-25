@@ -4,7 +4,7 @@
 Simple RCON command sender to Minecraft server.
 
 ## Usage
-Step 1. Enter the server's IP address. (Template: mc.hypixel.net)
+Step 1. Enter the server's IP address.
 
 Step 2. Enter the server's RCON port, which can be found in the server.properties file. 
 
