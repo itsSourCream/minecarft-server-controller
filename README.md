@@ -2,6 +2,7 @@
 
 # Minecraft Server Controller
 Simple RCON command sender to Minecraft server.
+
 [Русская документация](https://github.com/itsSourCream/minecraft-server-controller/blob/master/README-ru.md)
 
 ## Usage
