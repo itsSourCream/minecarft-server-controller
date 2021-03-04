@@ -13,4 +13,4 @@
 
 ![RCON password](https://imgur.com/sXDTlCo.png)
 
-Это очень легко и удобно в использовании.
+Это очень легко.
