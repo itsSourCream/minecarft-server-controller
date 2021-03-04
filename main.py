@@ -35,6 +35,9 @@ def connect(ip, port, password):
         print("[RCON] Произошла ошибка при подключении. Пожалуйста, проверьте "
              "правильность введённых данных, а также работу RCON-сервера.")
         start()
+    except ValueError:
+        print("[RCON] RCON-пароль не должен содержать символы. [См. https://github.com/itsSourCream/minecraft-server-controller/issues/3]")
+        start()
 
     else:
         print("[RCON] Подключение к серверу успешно.")
