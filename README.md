@@ -2,7 +2,7 @@
 
 # Minecraft Server Controller
 Simple RCON command sender to Minecraft server.
-[Русская документация](https://github.com/julheer/minecraft-server-controller/blob/master/README-ru.md)
+[Русская документация](https://github.com/itsSourCream/minecraft-server-controller/blob/master/README-ru.md)
 
 ## Usage
 Step 1. Enter the server's IP address.
